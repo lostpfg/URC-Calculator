@@ -1,4 +1,4 @@
-# Positional Cube Notation Calculator
+# Unate Recursive Complement Calculator
 
 A simple solution written in Python *(tested on v2.7.11)* for computing complement of Boolean functions.
 Given a Boolean function F as a PCN cube list returns F' *(complemented function)* also as a PCN cube list.
